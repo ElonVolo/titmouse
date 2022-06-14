@@ -1,0 +1,12 @@
+{
+  "name": "titmouse",
+  "version": "1.0.0",
+  "description": "\"Totally Independent Typescript Mapper and ORM Utility for Software Engineers. Generates code that (de)serializes from JSON to Typescript classes and vice versa without introducing decorators or dependencies to existing classes.\"",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Typescript", "ORM", "Mapper", "JSON"],
+  "author": "Elon Volo <elonvolo@gmail.com>",
+  "license": "MIT"
+}
